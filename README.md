@@ -36,7 +36,7 @@
     ![icon-ruby-text-color-horz](https://user-images.githubusercontent.com/107399297/201635488-ee8d32db-b808-4931-afc4-7161ef0ca43d.svg)
     ![Ruby_on_Rails-Logo wine](https://user-images.githubusercontent.com/107399297/201639210-45d10475-75ba-4a72-9eb6-8838372473bc.svg)
 
-<br>  
+
 
     
 - **Front-End Development**:
@@ -69,25 +69,6 @@
 </p>
 
 <br>
-<br>
-
------
-
-<br>
-
-
-
-<br>
-
-
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
@@ -118,13 +99,7 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
 
-<br>
-<br>
-<br>
-<br>
 
 ---
 
